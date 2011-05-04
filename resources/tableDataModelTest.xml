@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+   test xml table data item data
+-->
+<tableData>
+    <columnNames>
+        <column name="Customer Name" width="100" height="30" colour="#cccc66" editable="true" tooltip="The customers name" />
+
+        <column name="Balance" width="10" editable="false" tooltip="The customers outstanding balance in US Dollars" />
+    </columnNames>
+    <rowData>
+        <row>
+            <col type="string">Mrs Jones</col>
+            <col type="float">99.95</col>
+        </row>
+
+        <row colour="#bbbbbb" >
+            <col type="string" >Mrs Smith</col>
+            <col type="float">104.65</col>
+        </row>
+        <row>
+            <col type="string" >Mrs Bloggs</col>
+            <col type="float">129.95</col>
+        </row>
+        <row colour="#bbbbbb" >
+            <col type="string" >Mrs Davis</col>
+            <col type="float">49.95</col>
+        </row>
+    </rowData>
+</tableData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+
+   test data item XML
+-->
+<dataItem type="TEXT" name="editable" title="Editable" tooltip="a text field"  fieldname="editable" font="Arial-Plain-12" editable="true" >
+    <value>this field is editable </value>
+</dataItem>

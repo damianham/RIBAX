@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ test xml validator data
+-->
+<validator>
+    <regexp>^[\w\-.]+@[\w\-.]+$</regexp>
+    <errorMessage>The value you have entered in the Email field is not a valid Email.  Please enter a value in the format username@domain.tld </errorMessage>
+</validator>

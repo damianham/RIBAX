@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    test xml data
+-->
+<modelData>
+    <details>
+        <name>Mr Smith</name>
+        <email>jones@yahoo.com</email>
+    </details>
+    <employment>
+        <age>35</age>
+        <job>engineer</job>
+    </employment>
+</modelData>

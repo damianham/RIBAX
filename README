@@ -1,0 +1,5 @@
+RIBAX is an Open Source Rich Internet Business Application Framework that enables website developers, software engineers, system administrators, system integrators, OEMs etc. to create a GUI for a software system in a simple XML language. The framework manages a set of Java Swing components and wraps the plumbing around the components for data transfer, event handling etc. The "Business" element means it is oriented towards managing data rather than displaying multimedia.
+
+The framework is implemented as a Java Applet which reads the XML description of the GUI and creates the GUI components, sourcing data from specified data sources and posting modified/entered data to back end data sources such as Web Services. The framework is intended to be an alternative to the page based interfaces of web applications which suffer from the endless request/response cycle however it can be used to develop a network capable GUI for any software system. 
+
+

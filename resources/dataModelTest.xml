@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  test xml data model data
+-->
+<dataModel modelName="testModel" serviceEndpoint="http://localhost/test/endpoint.pl" methodName="soapMethod">
+    <modelData>
+        <details>
+            <name>Mr Smith</name>
+            <email>jones@yahoo.com</email>
+        </details>
+        <employment>
+            <age>35</age>
+            <job>engineer</job>
+        </employment>
+    </modelData>
+</dataModel>
